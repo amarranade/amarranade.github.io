@@ -8,9 +8,6 @@ body {
 a {
   color: inherit;
   text-decoration: none;
-  &:hover {
-    color: $primary !important;
-  }
 }
 .p-short {
   font-size: 20px;
@@ -76,6 +73,22 @@ hr {
     font-size: 25px;
   }
 }
+
+.nav-contact{
+  color:white;
+  font-size:15px;
+}
+.nav-contact:hover{
+  color:white!important;
+}
+.contact-div{
+  text-align: center;
+    position: absolute;
+    bottom: 0px;
+    background-color: #31889e;
+    padding: 10px;
+}
+
 .title-sm {
   margin-top: 20px;
   font-size: 50px;
