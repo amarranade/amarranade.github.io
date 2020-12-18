@@ -6,8 +6,8 @@ const body = document.querySelector("body");
 const textArray = [
   "frontend developer",
   "backend developer",
-  "full stack",
-  "Shashank Padwal",
+  "Embedded Er",
+  "Amarendra Ranade",
 ];
 const typingDelay = 100;
 const erasingDelay = 50;
